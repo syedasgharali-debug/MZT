@@ -1,0 +1,6 @@
+{
+  "name": "MZT Services",
+  "description": "Managed IT Services, Cybersecurity, Cloud Infrastructure, Hosted VoIP, and Custom Software Engineering by MZT Services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
